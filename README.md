@@ -21,8 +21,8 @@ A Python-based web application vulnerability scanner that detects common vulnera
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Prathm1199/Elevate-labs-project.git
+cd Elevate-labs-project
 ```
 ### Create a Python virtual environment
 ```
