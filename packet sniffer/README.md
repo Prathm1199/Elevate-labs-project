@@ -26,13 +26,23 @@ logs data into SQLite, and raises alerts.
 - SQLite
 - Matplotlib
 
-## Usage
+## Setup and Installation (Linux)
+```
+git clone https://github.com/Prathm1199/Elevate-labs-project/packet_sniffer.git
+cd Elevate-labs-project/packet_sniffer
+```
+Create a Python virtual environment
+```
+python3 -m venv venv
+source venv/bin/activate
+```
 Install and run:  
 ```bash
 pip install -r requirements.txt
-cd packet_sniffer
 python sniffer.py
 ```
+Generate traffic in [browser] or [ping]
+
 Output looks like:
 ```
 192.168.1.10:50427 -> 104.18.5.247:443 | proto=6 | len=1424 | flags=A  
