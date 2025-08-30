@@ -63,6 +63,6 @@ Detailed guide available in [`packet_sniffer/README.md`](https://github.com/Prat
 
 
 ## Note:
-These projects are for educational purposes only.
+These projects are for educational purposes only.  
 Do not run them against systems or networks you do not own or have explicit permission to test.
 
