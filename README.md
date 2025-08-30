@@ -49,13 +49,6 @@ A **real-time network traffic sniffer** built with Python and `scapy`. It captur
 ###  Usage  
 1. Navigate to the project folder:  
    ```bash
-   cd packet_sniffer
-   python -m venv venv
-   venv\Scripts\activate   # Windows
-   ```
-   OR
-   ``` 
-   source venv/bin/activate   # Linux/Mac  
    pip install -r requirements.txt
    python sniffer.py
    ```
