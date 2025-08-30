@@ -27,7 +27,7 @@ logs data into SQLite, and raises alerts.
 - Matplotlib
 
 ## Usage
-Install dependencies with:  
+Install and run:  
 ```bash
 pip install -r requirements.txt
 cd packet_sniffer
@@ -40,7 +40,7 @@ ALERT: Flooding detected from 192.168.1.10 (195 packets in 10s)
 ```
 
 ## Note:
-Run with administrator/root privileges for capturing packets.
+Run with administrator/root privileges for capturing packets.  
 For learning and demo purposes only — do not sniff traffic on networks without permission.
 
 ## Screenshots:
