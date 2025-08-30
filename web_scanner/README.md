@@ -21,8 +21,8 @@ A Python-based web application vulnerability scanner that detects common vulnera
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Prathm1199/Elevate-labs-project.git
-cd Elevate-labs-project
+git clone https://github.com/Prathm1199/Elevate-labs-project/web_scanner.git
+cd Elevate-labs-project/web_scanner
 ```
 ### Create a Python virtual environment
 ```
@@ -53,7 +53,7 @@ Open your browser and go to http://127.0.0.1:5000.
 Enter the target URL in the form and view scan results directly in the browser.
 
 ### Notes
-Always test against your own applications or safe testing sites (e.g., DVWA or testphp.vulnweb.com).
+Always test against your own applications or safe testing sites (e.g., DVWA or testphp.vulnweb.com).  
 Do not use this tool against systems you do not have permission to test.
 
 ### Screenshorts
